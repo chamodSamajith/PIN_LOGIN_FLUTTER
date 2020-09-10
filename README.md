@@ -1,3 +1,6 @@
+## Authored by Chamod Rathnayake
+#chamodsr@gmail.com
+
 # passCode
 
 A new Flutter project.
